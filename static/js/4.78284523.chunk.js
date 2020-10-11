@@ -1,0 +1,2 @@
+(this["webpackJsonpwasm-react-starter"]=this["webpackJsonpwasm-react-starter"]||[]).push([[4],{21:function(n,r,e){"use strict";e.r(r);var t=e(16);e.d(r,"Cell",(function(){return t.a})),e.d(r,"Universe",(function(){return t.b})),e.d(r,"__wbg_new_59cb74e423758ede",(function(){return t.d})),e.d(r,"__wbg_stack_558ba5917b466edd",(function(){return t.e})),e.d(r,"__wbg_error_4bb6c2a97407129a",(function(){return t.c})),e.d(r,"__wbindgen_object_drop_ref",(function(){return t.f})),e.d(r,"__wbindgen_throw",(function(){return t.g}))}}]);
+//# sourceMappingURL=4.78284523.chunk.js.map
