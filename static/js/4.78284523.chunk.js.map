@@ -1,1 +1,0 @@
-{"version":3,"sources":["../lib/pkg/gameOfLife.js"],"names":[],"mappings":"+HAAA","file":"static/js/4.78284523.chunk.js","sourcesContent":["import * as wasm from \"./gameOfLife_bg.wasm\";\nexport * from \"./gameOfLife_bg.js\";"],"sourceRoot":""}
