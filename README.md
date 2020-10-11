@@ -1,9 +1,10 @@
 <div align="center">
 
-  <h1><code>React Typescript With Rust WASM</code></h1>
+  <h1><code>Conway's Game of Life[React Typescript With Rust WASM]</code></h1>
 
 <strong>
-Boilerplate of a React TypeScript project that uses Rust WASM as a library. 
+
+
 </strong>
 <br/>
 
@@ -14,13 +15,12 @@ More information can be found at:
 <h3>
 <a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a>
 <span> | </span>
-<a href="https://github.com/facebook/create-react-app">Create React App</a>
+<a href="https://github.com/rustwasm/wasm_game_of_life">rust game of life</a>
+<span> | </span>
+<a href="https://github.com/Creskendoll/react-ts-with-wasm-template">react-ts-with-wasm-template</a>
 </h3>
 </div>
 
-# About this boilerplate
-
-This is a React Typescript template that uses a Rust library to run web assembly. By building the Rust project you will be able to display an alert on the browser.
 
 ## Steps To Running This Project
 
