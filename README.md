@@ -7,6 +7,7 @@
 
 </strong>
 <br/>
+https://battler45.github.io/gameOfLife/
 
 <p>
 More information can be found at:
